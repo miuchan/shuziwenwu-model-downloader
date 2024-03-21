@@ -12,7 +12,9 @@ Python 3.8.6 or later [[download](https://www.python.org/downloads/)]
 
 # Usage
 
-`python .\download.py https://www.dpm.org.cn/shuziwenwu/260332.html`
+```bash
+python .\download.py https://www.dpm.org.cn/shuziwenwu/260332.html
+```
 
 or
 
