@@ -1,5 +1,7 @@
 # 故宫博物院数字文物模型下载器
 
+下载`mview`文件并转成 `glb`格式，保存到系统下载目录中。
+
 # Requirements
 
 Python 3.8.6 or later [[download](https://www.python.org/downloads/)]
@@ -18,4 +20,4 @@ or
 
 # License
 
-MIT
+[MIT](LICENSE)
